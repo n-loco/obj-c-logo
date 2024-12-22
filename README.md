@@ -1,4 +1,4 @@
-# Unnoficial Objective-C Logo
+# Unofficial Objective-C Logo
 Inspired by XCode/Apple App Store logos and the Swift logo
 ---
 
